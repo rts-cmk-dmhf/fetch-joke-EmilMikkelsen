@@ -18,3 +18,9 @@ Når du har fået en joke tilbage i et `response`, skal du vha. DOM-manipulation
 Du skal sørge for at foretage DOM-manipulationen så sent som muligt.
 
 Test at du får en tilfældig joke ved at refreshe din side flere gange.
+
+## Resurser
+
+API dokumentation: https://icanhazdadjoke.com/api
+
+MDN dokumentation: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
